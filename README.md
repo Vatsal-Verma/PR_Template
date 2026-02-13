@@ -1,14 +1,11 @@
 ### Description
-
-<!-- please provide a clear and concise description of the PR.) -->
+<!-- please provide a clear and concise description of the PR. -->
 
 ### Fixes
-
 <!-- Fixes #123 (issue number) -->
 
 ### Screen Shots (if any)
-
-<!-- Screenshots or a screen recording of the visual changes associated with this PR.) -->
+<!-- Screenshots or a screen recording of the visual changes associated with this PR. -->
 
 ### Submitter checklist
 
